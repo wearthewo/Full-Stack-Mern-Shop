@@ -1,1 +1,1 @@
-"# Full-Stack-Mern-Shop" 
+Full stack shop using MERN where user is authenticated using cookies, we fetch products from MongoDB to display them in front page after user can choose the product he wants to add it in cart. After he can procced to payment with Paypal. We use Paypal sandbox mode for fake payments with fake credentials. Finally, he can see his orders and profile. We take care also of all admin's properties . 
